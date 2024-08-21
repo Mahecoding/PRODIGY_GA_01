@@ -1,2 +1,3 @@
-# PRODIGY_GA_01
-This repository focuses on Generative AI projects, including text and image generation. Key areas: Image Generation with pre-trained models (DALL-E, Stable Diffusion), Text Generation (GPT-2, Markov Chains), and Image-to-Image Translation using Conditional GANs (cGANs).
+# TEXT GENERATION USING GPT-2
+Custom GPT-2 text generator fine-tuned on a unique dataset. This project includes code for training GPT-2, generating contextually relevant text, and an interactive Gradio interface for real-time text generation. Explore how AI creates creative text based on user prompts.
+![alt text](https://github.com/Mahecoding/PRODIGY_GA_01/blob/dc170cfbfaececc3bf89ba6343308d63141c82cb/TEXT%20GENERATION%20OUTPUT.png)
